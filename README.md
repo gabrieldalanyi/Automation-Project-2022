@@ -20,6 +20,7 @@ The test aims to ensure that users are able to add products to the cart, enter t
 process successfully. The test also verifies the error messages displayed for invalid or incomplete information.
 
 Homepage Test:
+
 Description: This test verifies the functionality of the homepage on a website. 
 The test aims to ensure that the homepage is displayed correctly, and that all links and buttons on the homepage are working properly. 
 The test also verifies the search bar functionality and any pop-ups or notifications displayed on the homepage.

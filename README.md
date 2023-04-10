@@ -39,6 +39,5 @@ filter and sort the search results as desired. The test also verifies any error 
 
 
 Note:
-These tests are just examples of some of the QA automation tests that can be performed on different pages of a website. 
-Depending on the specific requirements and features of the website, additional tests may be required to thoroughly test the website's 
-functionality and ensure that it meets the necessary quality standards.
+
+This project that is not yet completed !
